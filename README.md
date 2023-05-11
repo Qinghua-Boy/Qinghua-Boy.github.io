@@ -3,9 +3,7 @@
 ## Hi! 你好，同志！
 ### 很高兴认识你！
 
-<script>
-document.body.style.backgroundImage="linear-gradient(to top, #B22222 0%, #C0C0C0 60%, #696969 100%)";
-</script>
+
 
 
 ![image](https://github.com/Qinghua-Boy/Qinghua-Boy.github.io/assets/122422271/bc5b7721-ae38-4280-a5c1-60c57f2fd3e6)
