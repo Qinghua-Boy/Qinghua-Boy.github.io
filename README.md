@@ -1,11 +1,10 @@
 <div align=center>
-    img src="https://github.com/Qinghua-Boy/Qinghua-Boy.github.io/assets/122422271/bc5b7721-ae38-4280-a5c1-60c57f2fd3e6" 
+    <img src="https://github.com/Qinghua-Boy/Qinghua-Boy.github.io/assets/122422271/bc5b7721-ae38-4280-a5c1-60c57f2fd3e6" >
 </div>
 
 # Qinghua-Boy.github.io
 
-## Hi! 你好，同志！
-### 很高兴认识你！
+## 初2025级21班13组作品
 
 
 
