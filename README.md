@@ -46,21 +46,23 @@ $$E=mc^2$$
 
 
 
+
+<iframe src ="https://player.codemao.cn/new/165294185"></iframe>
+
+<template>
+	<div class="iframe-container">
+		<iframe id="
+
+
+<font>   </font>
+
+  
 <marquee border="9" align="滚动文字位于距形内边框的上下左右位置" scrolldelay="速度" behavior="文字滚动的方式">
 你要滚动的内容
 </marquee>
 
 
-<marquee direction="0" width="10000" height="10000" behavior="1" style="border:solid" scrollamount=10>
-	<marquee behavior="1" scrollamount=10>		你的文字
-	</marquee>
-</marquee>
-
-
-
-
-
-
-<iframe src="https://player.codemao.cn/new/165294185" width="600" height="1000""> 
-</iframe>
-
+										
+										
+										
+										
