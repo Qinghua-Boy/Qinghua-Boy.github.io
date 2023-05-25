@@ -20,14 +20,8 @@
 
 [关于我](https://shequ.codemao.cn/user/9945214)
 
-$$E=mc^2$$
----
 
->w
->
-<p style="font-size:48px">
-&#128512; &#128516; &#128525; &#128151;
-</p>
+
 
 
 
@@ -44,21 +38,18 @@ $$E=mc^2$$
    </font>
 </a>
 
-
-
+【鸡里坤气的文化-哔哩哔哩】 
+<video src="https://b23.tv/xOUeys1"></video>
 
 <iframe src ="https://player.codemao.cn/new/165294185"></iframe>
 
-<template>
-	<div class="iframe-container">
-		<iframe id="
 
 
 <font>   </font>
 
   
 <marquee border="9" align="滚动文字位于距形内边框的上下左右位置" scrolldelay="速度" behavior="文字滚动的方式">
-你要滚动的内容
+ hello
 </marquee>
 
 
