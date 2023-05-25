@@ -38,10 +38,7 @@
    </font>
 </a>
 
-<iframe src="https://b23.tv/xOUeys1"></iframe>
-<font> </font>
-
-<video src="https://b23.tv/xOUeys1"></video>
+<iframe src="//player.bilibili.com/player.html?aid=401474665&bvid=BV1Ad4y1f7C4&cid=1139679522&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <font> </font>
 <iframe src ="https://player.codemao.cn/new/165294185"></iframe>
